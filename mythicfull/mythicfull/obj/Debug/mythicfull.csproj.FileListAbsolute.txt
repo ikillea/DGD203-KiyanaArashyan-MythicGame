@@ -1,0 +1,7 @@
+C:\Users\LEA\source\repos\mythicfull\mythicfull\obj\Debug\mythicfull.csproj.AssemblyReference.cache
+C:\Users\LEA\source\repos\mythicfull\mythicfull\obj\Debug\mythicfull.csproj.CoreCompileInputs.cache
+C:\Users\LEA\source\repos\mythicfull\mythicfull\bin\Debug\mythicfull.exe.config
+C:\Users\LEA\source\repos\mythicfull\mythicfull\bin\Debug\mythicfull.exe
+C:\Users\LEA\source\repos\mythicfull\mythicfull\bin\Debug\mythicfull.pdb
+C:\Users\LEA\source\repos\mythicfull\mythicfull\obj\Debug\mythicfull.exe
+C:\Users\LEA\source\repos\mythicfull\mythicfull\obj\Debug\mythicfull.pdb
